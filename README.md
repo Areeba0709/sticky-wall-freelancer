@@ -52,5 +52,6 @@ This project uses the PayPal Sandbox Environment. No real money is processed. Th
 **📄 License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+   ```bash
+     https://github.com/Areeba0709/sticky-wall-freelancer/blob/main/LICENSE
 ```
