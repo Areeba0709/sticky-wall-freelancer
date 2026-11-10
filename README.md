@@ -33,15 +33,24 @@ A desktop productivity app built with Python and CustomTkinter that helps freela
    ```bash
    git clone https://github.com/Areeba0709/sticky-wall-freelancer.git
    cd sticky-wall-freelancer
-   Install the required dependencies:
+2. **Install the requied dependencies:**
+    ```bash
+    pip install -r requirements.txt
+3. **Set up your API Keys:**
+    Create a new config.py file in the root directory.
+   · Add your Google Gemini API key:
+     ```python
+      GEMINI_API_KEY = "your_api_key_here"
+4.  **Run the application:**
+      ```bash      
+       python sticky_wall.py
+      
+**Important Note:**
 
-pip install -r requirements.txt
+This project uses the PayPal Sandbox Environment. No real money is processed. The API keys used for the demo video have been removed for security. You must supply your own Gemini API key to use the AI features.
 
-Set up your API Keys:
+**📄 License**
 
-Create a new config.py file in the root directory.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Add your Google Gemini API key:
-GEMINI_API_KEY = "your_api_key_here"
-Run the application:
-python sticky_wall.py
+```
