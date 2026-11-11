@@ -33,7 +33,7 @@ A desktop productivity app built with Python and CustomTkinter that helps freela
    ```bash
    git clone https://github.com/Areeba0709/sticky-wall-freelancer.git
    cd sticky-wall-freelancer
-2. **Install the requied dependencies:**
+2. **Install the required dependencies:**
     ```bash
     pip install -r requirements.txt
 3. **Set up your API Keys:**
